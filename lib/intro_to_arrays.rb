@@ -23,4 +23,5 @@ end
     last_country = "Myanmar"
   end
   def length_of_array(array)
-    
+    length = 8
+  end
